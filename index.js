@@ -13,7 +13,7 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   if(condition){
     return "I can't hear you!"
-  
+
 
 }
 function sayHiToGrandma(string {
